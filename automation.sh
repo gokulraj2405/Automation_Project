@@ -48,4 +48,4 @@ if [[ ! -f /etc/cron.d/automation ]]; then
         echo: "* * * * * root /root/automation.sh" >> /etc/cron.d/automation
 fi
 
-
+#new features 
